@@ -1,5 +1,5 @@
-<!--Naomi Smith 12/17/2021-->
-<!--For Pages--!>
+<!--Naomi Smith 12/15/2021-->
+
 .naomi{
     color: black;
     text-align: center;
@@ -30,15 +30,4 @@ header.masthead .page-heading h1, header.masthead .page-heading .h1, header.mast
 header.masthead {
     padding-top: 8rem;
     padding-bottom: 8rem;
-}
-.header {
-    position: relative;
-    margin-bottom: 4rem;
-    padding-top: calc(9rem + 58px);
-    padding-bottom: 8rem;
-    background: center;
-    background-color: white;
-    background-size: cover;
-    background-attachment: scroll;
-    height: 100px;
 }
